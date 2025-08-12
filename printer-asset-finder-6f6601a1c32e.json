@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "printer-asset-finder",
+  "private_key_id": "6f6601a1c32ef5a4f12bf0b89a264c8e04a3c52b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCr1gLsRcsSokj1\n2tDNC1UiJ6ihCjgvpl8ZOGFwVhQxTjZRW8HL0bXWh1BeVVQcjHzTKQ55iizIuDpN\nHsKchQ+v0WGctHIZcRCFmF27pfkuTpLUr8b/fFwpraWuHGAEWfKkjjC+WbXQHGAz\n2friTxKHVw7YthhoRWdwsW5v5OkGwXif/Mj8fVMKs2ICuBz8p2w6DfUukIvn4iUm\naMDVeY3Id57LMuMkHXnXNZI0kvXZTBHhiJ0ZLV8j6II0xKeyeiLZyVg8K5Yk0Cj8\nqRf/QFOmFzPZBLTDMhZdew1YxbPC3SnpwZbuq50do6fRU0hBSoLHYjSW5zf1k8Nh\ngZqEFKkLAgMBAAECggEAQSQ56nEQ6Wj9KLrBkiG8Ld0D97zEjQfQoGJ3ydrP/9sL\nC2+x+X7wJLoaVRCa+NGnVnOHibrAfH0emPLSyvxEdJ33F61uXce3gDXBPuxOGOhv\nkFJsqZju5VvvZaBbI/snWYuP3fFrU9AWBkIZ8mYQe58cwTnS6eB5tMaGu8N3NXhN\nlD1w8MaiZU3O6qaB0PmoJZKW0Ja0eLRRVv4pPjfgAb13WIdGxG7hQP9juuE1vXpA\njCAdmhyGibULKeawWdof2JrBxBRVxHp+ogSdGDRdCxkcKN10550pdVyUQV61wJUs\ndPEnIeKY1z2xXN/YM5PaFc6mBRR+R6hT6SzLw5vXyQKBgQDrqjiQec/P2jd26+gh\nbXCOrQpwDNjboAC6Edh2o/Yh8A/JFTwfG4J0MncPehDjjaGOLNfa0vkWvCOmxpzT\nKPQEsxFBtI3enVBNTZynW+sL8jII19n4VMX7/OV+MFy7Ic8zhgNwyjzrG0pqdSkc\nJemHteB7JIqVaUz0zfWiUgMmSQKBgQC6qdM7YL7iJbrJVVVStiyjKl13MuD4qFwj\nufhVPEj6szfqLL46tCQy0BJH09ynS8OYKSP2IJKHFS5Li2ZuHTZzHHxvDct/452F\nwK/I0TEheubUVkxTGijuDyPqB7h95OHJ1WKtxlFPl2BWkCmFuPF7z6vmnMNXqVKd\nXn/JGgnEswKBgFJDeD1OmDEpLmVP0hchGcJkOxmEEosP3lEVe6dmcrvEDe6WgAcn\n1jDzkMYRSSX1wahclPjo3lSGVjeYaxP23r9pNqPmAAPujCJ/7igpmPHxmG+n0Ymz\nJe1hiUa0YRpdofONW1Qa9IrpWt+wiCowPcXGwlaaGdowCNIHty/zSvApAoGBAIIY\nUmwT5XXgLeqcWrcm2L1vjWzCPSGQ1Ybg2j8toP95YQMI5Bwt6PyxH8yH0EWY/F1U\nbwffc8BJ9tYX9e/Q1F4uAFu2FZqwnNzXiqw/gCqBadebvd49YUFps/IsJ1025Faz\nLe9HROxf6HjsSMQ2Pbe46Wn04AB8tmOPtSgHyb8ZAoGAVGJPZJAdGVcQ0xhVLoB4\nnVqVc9b91KQMjrr1Cg2FKf00vmeXQpjnZcM95Ns/SQPovUT0EhkyFLd9ckWVA03e\nck2gBtcMrEj/TGBWM7ujuQnKD9hnKLB0koGR3KUfCB3yyu7PEMTlX3vPx1imx/6S\ntFdcBymSMZT7y/clIGByzno=\n-----END PRIVATE KEY-----\n",
+  "client_email": "wilbee@printer-asset-finder.iam.gserviceaccount.com",
+  "client_id": "113078948293214759592",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/wilbee%40printer-asset-finder.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
